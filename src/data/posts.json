@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "How I approach learning a new technology",
+    "excerpt": "A practical learning loop that helps me move from documentation to building something useful.",
+    "category": "Learning",
+    "date": "2026-10-28",
+    "readTime": "4 min read",
+    "author": "Prajjwal Singh",
+    "accent": "violet",
+    "content": "Start with the problem you want to solve. Read the official documentation for the core concepts, build a tiny experiment, and then apply the idea in a real project. Keep notes about errors and solutions so the next attempt becomes easier."
+  },
+  {
+    "id": 2,
+    "title": "Building a weather dashboard with React",
+    "excerpt": "A look at the UI decisions behind a clean weather dashboard and the value of reusable components.",
+    "category": "Projects",
+    "date": "2026-10-20",
+    "readTime": "5 min read",
+    "author": "Prajjwal Singh",
+    "accent": "blue",
+    "content": "A dashboard should make the most important information easy to scan. I focused on a clear current-weather summary, readable forecast cards, responsive spacing, and reusable UI pieces. The next step is connecting a reliable weather API and handling loading and error states."
+  },
+  {
+    "id": 3,
+    "title": "Why I practise DSA in C++",
+    "excerpt": "Problem-solving practice is more than counting solved questions: it is about patterns and clear reasoning.",
+    "category": "Coding",
+    "date": "2026-10-12",
+    "readTime": "3 min read",
+    "author": "Prajjwal Singh",
+    "accent": "orange",
+    "content": "When solving a problem, I first understand the constraints and try a straightforward approach. Then I look for a better pattern, analyse time and space complexity, and test edge cases. Writing down why a solution works is as important as getting accepted."
+  },
+  {
+    "id": 4,
+    "title": "Small UI details that improve a website",
+    "excerpt": "Responsive layouts, consistent spacing, useful empty states, and accessible labels make interfaces feel complete.",
+    "category": "Frontend",
+    "date": "2026-10-05",
+    "readTime": "4 min read",
+    "author": "Prajjwal Singh",
+    "accent": "green",
+    "content": "Good interfaces are built from many small decisions. Use a spacing scale, check the layout at mobile widths, provide visible focus states, and write helpful labels. Test empty and error states too, not only the happy path."
+  },
+  {
+    "id": 5,
+    "title": "My checklist before publishing a project",
+    "excerpt": "A simple checklist for testing, documenting, and sharing a project with confidence.",
+    "category": "Projects",
+    "date": "2026-09-26",
+    "readTime": "3 min read",
+    "author": "Prajjwal Singh",
+    "accent": "pink",
+    "content": "Before publishing, test the main user flow, check responsive behaviour, remove unused files, add clear setup instructions, and include screenshots. Confirm that links work and that the README explains what the project does and what could be improved next."
+  }
+]
